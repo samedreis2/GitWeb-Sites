@@ -1,0 +1,27 @@
+#banner
+image=https://istanbulcuisinewa.com/wp-content/uploads/2017/06/pizza_adven_zestypepperoni.png
+text=&f&lOfficial Index
+
+#navigation
+item-link-1=welcome.official
+item-label-1=Home
+item-icon-1=HOME
+
+#paragraph
+text=İletişim için taha@endermail.com
+padding=10
+
+#header
+text=&f&lPizza Seçenekleri
+scale=2
+align=left
+padding=10
+
+#paragraph
+padding=10
+text=daha sonra eklenecektir
+
+#footer
+title=Kurucu
+sub-title=Samed gundi Reis
+home-page=tahapizza.web
